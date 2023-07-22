@@ -46,7 +46,8 @@ This list is unordered because I don't know exactly what to do in the beginning
 	10. *Click on your moogle, click gardening, click mog safe, click flowerpot, click examine (THIS IS IMPORTANT AS IT WILL MAKE YOUR PLANT HAPPY)
 		* By examining the plant you're effectively watering and pruning the plant
 	11. (As of 7/21/23 I have not gotten here) When your plant emits a glow it will be time for harvest (It should tell you. Harvested items go directly into your mog safe)
-	![[Pasted image 20230721175858.png]]
+	
+ ![Pasted image 20230721175858.png](https://github.com/B-Chavez/HorizonXI_HowTo/blob/master/Pasted%20image%2020230721175858.png?raw=true)
 
 
 # Gameplay - Quests
