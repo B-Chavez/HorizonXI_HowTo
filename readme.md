@@ -8,7 +8,7 @@ This list is unordered because I don't know exactly what to do in the beginning
 * Change the sizing of chat windows in order to fit everything
 * Turn off Yell
 * Turn on UI addon
-* Use click + shift to move 
+* Use click + shift to move addon
 
 # Gameplay
 * Open the second main menu, go to config, go to gameplay, under Inventory turn Sort to ON
