@@ -2,6 +2,9 @@
 
 This list is unordered because I don't know exactly what to do in the beginning
 
+[Controller Setup](HorizonXI_Controller_Setup.md)
+
+
 # Technical things
 * If using a controller turn on hat thingy when configuring controller
 * Change chat menu to horizontal...or maybe it's vertical?
